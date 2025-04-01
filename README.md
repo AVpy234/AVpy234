@@ -29,6 +29,15 @@
 - **Certified in Generative AI (Google Cloud)**  
 - **Placed as a Software Engineer at Chetu (Lucknow Placement Drive 2025)**  
 
+## 📊 GitHub Stats
+
+![Anshuman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AVpy234&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AVpy234&layout=compact&theme=radical)
+
+## 📈 Visitor Count
+
+![Visitor Count](https://komarev.com/ghpvc/?username=AVpy234&color=blue)
+
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/your-profile)  
