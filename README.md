@@ -40,7 +40,8 @@
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([(https://www.linkedin.com/in/anshuman-verma04)])  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/anshuman-verma04)
+
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/AVpy234)  
 [![Google Cloud](https://img.shields.io/badge/GoogleCloud-SkillsBoost-blue?logo=google-cloud)](https://www.cloudskillsboost.google/public_profiles/6821c805-f33d-4be8-8b86-096c65954721)  
 
